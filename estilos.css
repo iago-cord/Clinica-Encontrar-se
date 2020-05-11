@@ -1,0 +1,41 @@
+body{
+    background-image: url('https://scontent.fldb5-1.fna.fbcdn.net/v/t1.0-9/37992269_1891747724252250_2709019380359888896_n.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=8esrg1zs9y8AX97Rmn4&_nc_ht=scontent.fldb5-1.fna&oh=7fc9fa730c403d9a9de7c76b0e2a9fb1&oe=5EE08C70');
+    font-family: Arial;
+    background-size: auto 100vh;
+    height: 100vh
+
+  }
+  
+  .menu {
+    background-color: darksalmon; 
+  }
+  
+  a {
+    color: indianred;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: orange;
+    font-family: applechancery; 
+    font-style: italic;
+  }
+  
+  .site-subtitle {
+    text-align: left;
+    color: darkorange;
+  }
